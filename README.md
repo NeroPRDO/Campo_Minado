@@ -4,6 +4,9 @@
 
 ---
 
+![CampoMinado](README/InitCampo.png)
+
+---
 ## 📋 Descrição do Projeto
 
 Este projeto reproduz o clássico **Campo Minado**, oferecendo:
